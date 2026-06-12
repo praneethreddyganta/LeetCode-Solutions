@@ -20,3 +20,4 @@ class Solution:
             nums[i]=1
         for i in range(count0+count1,count0+count1+count2):
             nums[i]=2
+        return nums
