@@ -60,4 +60,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
