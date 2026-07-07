@@ -81,4 +81,8 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
