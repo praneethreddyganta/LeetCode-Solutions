@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
