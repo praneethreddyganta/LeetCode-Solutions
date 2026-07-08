@@ -86,4 +86,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1757-recyclable-and-low-fat-products](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
