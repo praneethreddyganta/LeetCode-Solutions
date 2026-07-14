@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -88,4 +89,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
