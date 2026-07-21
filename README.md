@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -49,6 +51,7 @@
 | [0075-sort-colors](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
