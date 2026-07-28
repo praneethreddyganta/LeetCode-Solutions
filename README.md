@@ -50,6 +50,7 @@
 | [0169-majority-element](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
