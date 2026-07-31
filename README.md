@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 | [0455-assign-cookies](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sliding Window
 |  |
 | ------- |
