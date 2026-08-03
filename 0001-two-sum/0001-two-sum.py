@@ -1,5 +1,7 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        '''
+        My Code:Time:O(nlogn),Space:O(N)
         nums1=sorted(nums)
         i=0
         j=len(nums1)-1
@@ -19,3 +21,11 @@ class Solution:
             elif nums[i]==big:
                 l.append(i)
         return l
+        '''
+        seen={}
+        for i in range(len(nums)):
+            complement=target-nums[i]
+            if complement in seen:
+                return (seen[complement],i)
+            seen[nums[i]]=i
+        
