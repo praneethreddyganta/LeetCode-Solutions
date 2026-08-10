@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2239-find-closest-number-to-zero](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
