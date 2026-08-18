@@ -33,6 +33,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
@@ -48,6 +49,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
