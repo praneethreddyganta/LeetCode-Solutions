@@ -44,6 +44,7 @@
 | [0001-two-sum](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -89,6 +90,7 @@
 | [0075-sort-colors](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
