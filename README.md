@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@
 | [0035-search-insert-position](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
