@@ -14,6 +14,7 @@ class Solution:
                 min[j]=nums[j]
             else:
                 min[j]=min[j+1]
+                
         for m in range(len(nums)):
             if max[m]-min[m]<=k:
                 return m
