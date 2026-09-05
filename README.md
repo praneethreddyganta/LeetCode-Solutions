@@ -41,6 +41,7 @@
 | [3731-find-missing-elements](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3903-smallest-stable-index-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0724-find-pivot-index](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
