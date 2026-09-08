@@ -78,6 +78,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
