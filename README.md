@@ -77,6 +77,7 @@
 | [0189-rotate-array](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -163,6 +164,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -255,4 +258,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
