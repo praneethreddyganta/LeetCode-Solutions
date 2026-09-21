@@ -6,5 +6,10 @@ class Solution:
             return 1
         elif n==2:
             return 1
-        else:
-            return self.fib(n-1)+self.fib(n-2)
+        a=1
+        b=1
+        for i in range(3,n+1):
+            curr=a+b
+            a=b
+            b=curr
+        return curr
