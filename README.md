@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
 |  |
@@ -236,6 +237,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration
