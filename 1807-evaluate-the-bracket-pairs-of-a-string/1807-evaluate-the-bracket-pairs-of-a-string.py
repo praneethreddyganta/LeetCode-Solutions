@@ -3,18 +3,14 @@ class Solution:
         i=0
         knowledge_dict=dict(knowledge)
         ans=""
+        #Motham Gpt helped
         while i< len(s):
             if s[i]=="(":
                 j=i+1
-                while j<len(s):
-                    if s[j]==")":
-                        t=i
-                        i=j
-                    
-                        break
-                        
+                while s[j]!=")":
                     j+=1
-                ans+=knowledge_dict.get(s[t+1:j],"?")
+                ans+=knowledge_dict.get(s[i+1:j],"?")
+                i=j
             else:
                 ans+=s[i]
             i+=1
