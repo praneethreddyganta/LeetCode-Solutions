@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -95,6 +96,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -235,6 +237,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
 |  |
