@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -241,6 +243,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
