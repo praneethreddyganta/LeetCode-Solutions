@@ -1,9 +1,10 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         #Karthik Helped
+        #Optimal GPT Helped
         o=0
         c=0
-        ans=""
+        ans=[]
         l=0
         for r in range(len(s)):
             if s[r]=="(":
@@ -11,8 +12,8 @@ class Solution:
             else:
                 c+=1
             if o==c:
-                ans+=s[l+1:r]
+                ans.append(s[l+1:r])
                 l=r+1
-        return ans
+        return "".join(ans)
 
         
