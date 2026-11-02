@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,6 +86,7 @@
 | [0050-powx-n](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,6 +128,7 @@
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
