@@ -66,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -127,6 +128,7 @@
 | [0242-valid-anagram](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -196,6 +198,7 @@
 | [0205-isomorphic-strings](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -220,6 +223,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -306,4 +310,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/praneethreddyganta/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
